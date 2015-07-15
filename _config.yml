@@ -1,6 +1,6 @@
 title:            Andrew Tsai
-tagline:          A beautiful theme.
-description:      Describe your website.
+tagline:          Personal Website.
+description:      Andrew Tsai's personal website.
 canonical: http://andrewtsai.me
 
 # Owner/author information
@@ -28,8 +28,10 @@ links:
     url: /about
   - title: Blog
     url: /blog
+    external: true
   - title: Lifehacks
     url: /lifehacks
+    external: true
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
