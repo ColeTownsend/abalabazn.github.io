@@ -27,10 +27,10 @@ links:
   - title: About
     url: /about
   - title: Blog
-    url: /blog
+    url: /Blog
     external: true
   - title: Lifehacks
-    url: /lifehacks
+    url: /Lifehacks
     external: true
 
 
