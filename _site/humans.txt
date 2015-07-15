@@ -1,0 +1,14 @@
+/* TEAM */
+Creator: Andrew Tsai
+Contact: atsai11@jhu.edu
+Twitter: twnsndco
+Location: Buffalo, NY
+                           
+/* THANKS */                           
+Creator of Balzac theme: Cole Townsend
+Twitter: @twnsndco
+
+/* SITE */                         
+Last update: 2015-07-15
+Standards: HTML, SCSS, Jekyll                        
+Software: git
