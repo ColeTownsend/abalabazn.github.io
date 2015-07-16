@@ -8,7 +8,7 @@ image:
 published: true
 ---
 Have you ever read one of those useless words/terms to know lists?
-A [gaggle] of geese is used to describe a flock of geese not in flight.
+A [gaggle](google.com) of geese is used to describe a flock of geese not in flight.
 A [skein] is when the flock of geese is in flight.
 [Lunulae] are the white crescent shaped areas at the proximal end of your fingernails.
 
