@@ -1,6 +1,6 @@
 ---
-layout: home
+layout: articles
 permalink: /articles/index.html
-title: "Blog"
+title: "Articles"
 tags: [blog, graphic design]
 ---
