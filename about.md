@@ -8,4 +8,4 @@ image:
   feature: soft-trees.jpg
 ---
 
-### I'm cool
+###
