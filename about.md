@@ -8,4 +8,3 @@ image:
   feature: soft-trees.jpg
 ---
 
-###
