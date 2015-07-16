@@ -7,14 +7,14 @@ canonical: abalabazn.github.io
 owner:
   name:           Andrew Tsai
   avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
+  bio:            "Student"
   email:          atsai11@jhu.edu
   twitter:        twnsndco
   github:         abalabazn
   instagram:      ctrunsthis
   dribbble:       coletownsend
   disqus:         balzac
-  location:       "Buffalo, NY"
+  location:       "Baltimore, MD"
   # Plug in your disqus shortname!
 
 tools:
@@ -27,11 +27,9 @@ links:
   - title: About
     url: /about
   - title: Blog
-    url: /Blog
-    external: true
+    url: /articles
   - title: Lifehacks
-    url: /Lifehacks
-    external: true
+    url: /lifehacks
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
