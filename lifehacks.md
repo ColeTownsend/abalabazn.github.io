@@ -1,5 +1,5 @@
 ---
-layout: articles
+layout: home
 permalink: /lifehacks/index.html
 title: "Lifehacks"
 tags: [blog, projects, jaan altosaar, design, machine learning]
