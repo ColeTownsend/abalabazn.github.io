@@ -14,6 +14,6 @@ A **skein** is when the flock of geese is in flight.
 
 In that same vein, *aglets* are the metal or plastic tubes that fit over the ends of your shoelaces. Aglets are prone to damage, cracking, splitting, and falling off. This makes it annoying to restring or thread shoelaces.
 
-You can use a (high quality) twist-tie to replace aglets that are cracked or have fallen off. In case you are worried about plastic twist-ties not being machine washable or melti in dryer, they don't.
+You can use a (high quality) twist-tie to replace aglets that are cracked or have fallen off. In case you are worried about plastic twist-ties not being machine washable or melting in the dryer, they don't.
 
 
