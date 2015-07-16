@@ -6,14 +6,14 @@ canonical: abalabazn.github.io
 # Owner/author information
 owner:
   name:           Andrew Tsai
-  avatar:         avatar.png
-  bio:            "Student"
+  #avatar:         avatar.png
+  bio:            "Asian American"
   email:          atsai11@jhu.edu
-  twitter:        twnsndco
+  #twitter:        twnsndco
   github:         abalabazn
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
+  #instagram:      ctrunsthis
+  #dribbble:       coletownsend
+  #disqus:         balzac
   location:       "Baltimore, MD"
   # Plug in your disqus shortname!
 
@@ -58,5 +58,5 @@ sass:
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
-include: [".htaccess"]
+#include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
